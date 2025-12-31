@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/isebka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="isebka" height="30" width="40" /></a>
-<a href="https://t.me/zerotop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="zerotop" height="30" width="40" /></a>
+<a href="https://t.me/zerotop" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/telegram.svg" alt="zerotop" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
